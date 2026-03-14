@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Table of Contents
+## 📖 Table of Content
 
 - [Vision](#-vision)
 - [Problem Statement](#-problem-statement)
